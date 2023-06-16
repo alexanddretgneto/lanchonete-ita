@@ -1,2 +1,2 @@
 # lanchonete-ita
-site da lanchonete em django
+site da lanchonete em MEAN
